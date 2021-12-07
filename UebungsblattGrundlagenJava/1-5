@@ -1,0 +1,26 @@
+1. Welche Werkzeuge in der Entwicklungsumgebung Eclipse sind ihnen bekannt?
+    - Autovervollständigung
+    - Debugger
+    - direkte Ausführbarkeit von Java Programmen in Eclipse
+
+2.  Welche Arten von Kommentaren gibt es in Java?
+    // einzeilige Kommentare
+    /* mehr zeilige Kommentare */ 
+    /** Doku Kommentare */
+
+3. Nennen Sie elementare Datentypen von Java mit Nachkommazahlen
+    - float
+    - double
+
+4.  Was ist eine Variable und welche Aktivitäten sind zu ihrem Einsatz notwendig?
+    Sie ist ein Speicherplatz welcher mit einem Namen versehen wird. In diesem Speicher können Werte eingefügt werden.
+    Zuerst wird die Variable mit Nennung des Datentyps erstellt: int x; Dies nennt man Deklaration.
+    Wird der Variablen x nun der Wert 3 zugewiesen, so wird sie initialisiert.
+
+5.  Welche Variablenbezeichner sind gültig?
+    _test √
+    1zeichen
+    void
+    _1zeichen √
+    Void
+    EinZeichen
